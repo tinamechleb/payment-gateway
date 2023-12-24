@@ -42,6 +42,8 @@ Before getting started, make sure you have the following installed on your syste
 3. **Set Up the Database:**
 
    - Execute the SQL script in `sql/create_tables.sql` to create the necessary tables.
+   - Change the db info in `utils/db.js`
+   - Change the secret key in `utils/encryptionAlgorithm.js`.
 
 4. **Run the Server:**
 
